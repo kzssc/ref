@@ -54,7 +54,7 @@ __Dr XU Feng 徐峰副教授__
 - xvfeng0610(at)163.com
 
 
-### MA (UPF) Module Leader
+### MA (UPF) Professor
 
 __Prof Paula CASAL__
 - ICREA Research Professor at Universitat Pompeu Fabra

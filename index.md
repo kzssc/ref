@@ -73,8 +73,7 @@ __MA(UPF) Module Leader: Dr Klaus-Jürgen NAGEL__
 ## Non-Academic Referees
 
 __Ms Clare MOK__
-- Society Manager of the Asia-Pacific Academy of Ophthalmology, 
-- Hong Kong, P. R. China
+- Society Manager of the Asia-Pacific Academy of Ophthalmology, Hong Kong, P. R. China
 - claremok(at)apaophth.org
 
 
@@ -86,8 +85,7 @@ __Ms Clare MOK__
 
 
 **Ms Dandan XIE 谢丹丹女士**
-- Senior Business Development Manager
-- Wenxiang Education (Shanghai) Co. Ltd.
+- Senior Business Development Manager, Wenxiang Education (Shanghai) Co. Ltd.
 - 问向教育科技（上海）有限公司 资深商务发展经理
 - xiedandan(at)wenxiangcn.com
 

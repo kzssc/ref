@@ -4,15 +4,14 @@ title: S. Chris Zhang Referee List
 ---
 # Sisheng Chris Zhang Referee List
 
-Filosofia del Dret, Universitat Pompeu Fabra
-- Ramon Trias Fargas, 25-27
-- 08005 Barcelona
-
 <div id="webaddress">
 <a href="mailto:careerATczhang.uk">career(at)czhang.uk</a>
 | <a href="http://czhang.uk">My website</a>
 | <a href="http://sishengzhang.com">中文主页</a> 
 </div>
+- Filosofia del Dret, Universitat Pompeu Fabra
+- Ramon Trias Fargas, 25-27
+- 08005 Barcelona
 
 
 ## Academic Referee

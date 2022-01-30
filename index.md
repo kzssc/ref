@@ -69,6 +69,7 @@ __MA(UPF) Module Leader: Dr Klaus-Jürgen NAGEL__
 - 西班牙庞培法布拉大学政治理论副教授
 - klaus.nagel(at)upf.edu 
 
+--- 
 
 ## Non-Academic Referees
 

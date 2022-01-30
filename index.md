@@ -18,53 +18,63 @@ Doctoral Researcher / FPI Fellow of Political Philosophy at Universitat Pompeu F
 
 
 ## Academic Referee
-
-__Doctoral Supervisor: Dr Iñigo GONZÁLEZ-RICOY__
+### Doctoral Supervisor
+__Dr Iñigo GONZÁLEZ-RICOY__
 - Associate Professor of Political Philosophy, Universitat de Barcelona 
 - ⻄班⽛巴塞罗那⼤学哲学系副教授 
 - igonzalez(at)ub.edu
 
 
-__Doctoral Supervisor: Dr Jahel QUERALT__
+__Dr Jahel QUERALT__
 - Serra Hunter Lecturer, Universitat Pompeu Fabra 
 - ⻄班⽛庞培法布拉⼤学法律系Serra Hunter特聘讲师 
 - jahel.queralt(at)upf.edu
 
-__Research Assistant for: Prof Serena OLSARETTI__
-- ICREA Research Professor at Universitat Pompeu Fabra
-- 西班牙庞培法布拉大学及加泰罗尼亚研究与高级研究中心教授
-- serena.olsaretti(at)upf.edu
 
-__Masters’ Supervisor: Prof Andrew WILLIAMS__
+### Masters' Supervisor
+
+__Prof Andrew WILLIAMS__
 - ICREA Research Professor at Universitat Pompeu Fabra
 - 西班牙庞培法布拉大学及加泰罗尼亚研究与高级研究中心教授
 - andrew.williams(at)upf.edu 
 
 
-__Mentor: Dr XU Feng 徐峰副教授__
-- Associate Professor of Political Philosophy, East China Normal University
-- 中国华东师范大学哲学系副教授
-- xvfeng0610(at)163.com
+### Research Assistant for
 
-__MA(UPF) Module Leader: Prof Paula CASAL__
+__Prof Serena OLSARETTI__
 - ICREA Research Professor at Universitat Pompeu Fabra
 - 西班牙庞培法布拉大学及加泰罗尼亚研究与高级研究中心教授
-- paula.casal(at)upf.edu
+- serena.olsaretti(at)upf.edu
 
-
-__Head of MA(Warwick) /Research Assistant for: Prof Matthew CLAYTON__
+__Prof Matthew CLAYTON__
 - Professor of Political Theory, University of Warwick
 - 英国华威大学政治理论教授
 - m.g.clayton(at)warwick.ac.uk
 
 
-__MA(UPF) Module Leader: Prof Santiago ZABALA__
+### Mentor
+
+__Dr XU Feng 徐峰副教授__
+- Associate Professor of Political Philosophy, East China Normal University
+- 中国华东师范大学哲学系副教授
+- xvfeng0610(at)163.com
+
+
+### MA (UPF) Module Leader
+
+__Prof Paula CASAL__
+- ICREA Research Professor at Universitat Pompeu Fabra
+- 西班牙庞培法布拉大学及加泰罗尼亚研究与高级研究中心教授
+- paula.casal(at)upf.edu
+
+
+__Prof Santiago ZABALA__
 - ICREA Research Professor at Universitat Pompeu Fabra 
 - 西班牙庞培法布拉大学及加泰罗尼亚研究与高级研究中心教授
 - santiago.zabala(at)upf.edu
 
 
-__MA(UPF) Module Leader: Dr Klaus-Jürgen NAGEL__
+__Dr Klaus-Jürgen NAGEL__
 - Associate Professor of Political Theory
 - 西班牙庞培法布拉大学政治理论副教授
 - klaus.nagel(at)upf.edu 

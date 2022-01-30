@@ -4,8 +4,6 @@ title: S. Chris Zhang Referee List
 ---
 # Sisheng Chris Zhang Referee List
 
-Doctoral Researcher / FPI Fellow of Political Philosophy at Universitat Pompeu Fabra (UPF)
-
 - Filosofia del Dret, Universitat Pompeu Fabra
 - Ramon Trias Fargas, 25-27
 - 08005 Barcelona

@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: S. Chris Zhang Referee List
+title: S. Chris Zhang
 ---
 # Sisheng Chris Zhang Referee List
 

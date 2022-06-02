@@ -90,7 +90,7 @@ __Ms Clare MOK__
 
 **Ms Dandan XIE 谢丹丹女士**
 - Senior Business Development Manager, Wenxiang Education (Shanghai) Co. Ltd.
-- 问向教育科技（上海）有限公司 资深商务发展经理
+- 问向教育科技（上海）有限公司资深商务发展经理
 - xiedandan(at)wenxiangcn.com
 
 

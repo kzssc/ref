@@ -20,8 +20,8 @@ __Dr Iñigo GONZÁLEZ-RICOY__
 
 
 __Dr Jahel QUERALT__
-- Serra Hunter Lecturer, Universitat Pompeu Fabra 
-- ⻄班⽛庞培法布拉⼤学法律系Serra Hunter特聘讲师 
+- Associate Professor of Law, Universitat Pompeu Fabra 
+- ⻄班⽛庞培法布拉⼤学法律系副教授
 - jahel.queralt(at)upf.edu
 
 
@@ -101,6 +101,6 @@ __Ms Clare MOK__
 - 1536070540(at)qq.com
 
 
-Last updated: Thursday, 2 June 2022
+Last updated: Wednesday, 28 September 2022
 
 

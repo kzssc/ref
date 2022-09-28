@@ -69,8 +69,8 @@ __Prof Santiago ZABALA__
 
 
 __Dr Klaus-Jürgen NAGEL__
-- Associate Professor of Political Theory
-- 西班牙庞培法布拉大学政治理论副教授
+- Associate Professor of Political Science at Universitat Pompeu Fabra
+- 西班牙庞培法布拉大学政治科学副教授
 - klaus.nagel(at)upf.edu 
 
 

@@ -48,7 +48,7 @@ __Prof Matthew CLAYTON__
 
 ### Mentor
 
-__Dr XU Feng 徐峰副教授__
+__Dr XU Feng 徐峰__
 - Associate Professor, Philosophy, East China Normal University
 - 中国华东师范大学哲学系副教授
 - xvfeng0610(at)163.com

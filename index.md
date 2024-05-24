@@ -78,6 +78,7 @@ __Dr Klaus-Jürgen NAGEL__
 
 __Ms Clare MOK__
 - Society Manager of the Asia-Pacific Academy of Ophthalmology, Hong Kong, P. R. China
+- 亚太眼科学会
 - claremok(at)apaophth.org
 
 

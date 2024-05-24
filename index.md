@@ -7,7 +7,7 @@ title: S. Chris Zhang
 <div id="webaddress">
 <a href="mailto:careerATczhang.uk">career(at)czhang.uk</a>
 | <a href="http://czhang.uk">My website</a>
-| <a href="http://sishengzhang.com">中文主页</a> 
+| <a href="http://cn.czhang.uk">中文主页</a> 
 </div>
 
 

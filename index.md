@@ -25,13 +25,6 @@ __Dr Jahel QUERALT__
 - jahel.queralt(at)upf.edu
 
 
-### Masters' Supervisor
-
-__Prof Andrew WILLIAMS__
-- ICREA Research Professor at Universitat Pompeu Fabra
-- 西班牙庞培法布拉大学及加泰罗尼亚研究与高级研究中心教授
-- andrew.williams(at)upf.edu 
-
 
 ### Research Assistant for
 
@@ -40,38 +33,12 @@ __Prof Serena OLSARETTI__
 - 西班牙庞培法布拉大学及加泰罗尼亚研究与高级研究中心教授
 - serena.olsaretti(at)upf.edu
 
-__Prof Matthew CLAYTON__
-- Professor of Political Theory, University of Warwick
-- 英国华威大学政治理论教授
-- m.g.clayton(at)warwick.ac.uk
-
-
 ### Mentor
 
 __Dr XU Feng 徐峰__
 - Associate Professor, Philosophy, East China Normal University
 - 中国华东师范大学哲学系副教授
 - xvfeng0610(at)163.com
-
-
-### MA (UPF) Professor
-
-__Prof Paula CASAL__
-- ICREA Research Professor at Universitat Pompeu Fabra
-- 西班牙庞培法布拉大学及加泰罗尼亚研究与高级研究中心教授
-- paula.casal(at)upf.edu
-
-
-__Prof Santiago ZABALA__
-- ICREA Research Professor at Universitat Pompeu Fabra 
-- 西班牙庞培法布拉大学及加泰罗尼亚研究与高级研究中心教授
-- santiago.zabala(at)upf.edu
-
-
-__Dr Klaus-Jürgen NAGEL__
-- Associate Professor of Political Science at Universitat Pompeu Fabra
-- 西班牙庞培法布拉大学政治科学副教授
-- klaus.nagel(at)upf.edu 
 
 
 ## Non-Academic Referees
@@ -88,20 +55,6 @@ __Ms Clare MOK__
 - tanfeng(at)seedasdan.org
 
 
-
-**Ms Dandan XIE 谢丹丹女士**
-- Senior Business Development Manager, Wenxiang Education (Shanghai) Co. Ltd.
-- 问向教育科技（上海）有限公司资深商务发展经理
-- xiedandan(at)wenxiangcn.com
-
-
-
-**Mr Zhihua LIAO 廖志华先生**
-- Director of Production Department, S.Star Media Corporation, Guangdong Radio and Television, Guangzhou, Guangdong, P.R.China
-- 广东广播电视台广东南方之星影视节目有限公司制片部主任兼演播厅行政主任
-- 1536070540(at)qq.com
-
-
-Last updated: Wednesday, 28 September 2022
+Last updated: Saturday, 3 January 2026
 
 

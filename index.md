@@ -53,7 +53,7 @@ __Clare MOK__
 - claremok(at)apaophth.org
 
 
-**Sebastian TAN 谭凤先生**
+**Sebastian TAN 谭凤**
 - South-Western Regional Director of Seed International, P. R. China
 - 思德国际教育科技有限公司西南区域总监
 - tanfeng(at)seedasdan.org

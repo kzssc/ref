@@ -12,11 +12,17 @@ title: S. Chris Zhang
 
 
 ## Academic Referee
-### Doctoral Supervisor
+
 __Iñigo GONZÁLEZ-RICOY__
 - Associate Professor of Political Philosophy, Universitat de Barcelona 
 - ⻄班⽛巴塞罗那⼤学哲学系副教授 
 - igonzalez(at)ub.edu
+
+__Tom PARR__
+- Reader (Associate Professor) of Political Theory, University of Warwick
+- 英国华威⼤学政治及国际研究系副教授
+- T.Parr(at)warwick.ac.uk
+
 
 
 __Jahel QUERALT__
@@ -26,14 +32,12 @@ __Jahel QUERALT__
 
 
 
-### Research Assistant for
 
 __Serena OLSARETTI__
 - ICREA Research Professor at Universitat Pompeu Fabra
 - 西班牙庞培法布拉大学及加泰罗尼亚研究与高级研究中心教授
 - serena.olsaretti(at)upf.edu
 
-### Mentor
 
 __XU Feng 徐峰__
 - Associate Professor, Philosophy, East China Normal University

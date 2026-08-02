@@ -19,8 +19,8 @@ __Iñigo GONZÁLEZ-RICOY__
 - igonzalez(at)ub.edu
 
 __Tom PARR__
-- Reader (Associate Professor) of Political Theory, University of Warwick
-- 英国华威⼤学政治及国际研究系副教授
+- Professor of Political Theory, University of Warwick
+- 英国华威⼤学政治及国际研究系教授
 - T.Parr(at)warwick.ac.uk
 
 
